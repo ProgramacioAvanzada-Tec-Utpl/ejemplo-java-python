@@ -11,7 +11,7 @@ El repositorio es de ámbito académico:
 
 * El repositorio se lo puede:
   * Descargar en **.zip**
-  * Realizar un **fork** al repositorio y luego **clonar** en el entorno local 
+  * Realizar un **fork** al repositorio y luego **clonar** en el entorno local
 
 ### Ejecución
 * El proyecto del lenguaje Java, se lo debe ejecutar desde Netbeans, a través de la clases **Ejecutable.java**
@@ -86,3 +86,9 @@ if __name__ == "__main__":
         print("%s" % i)
 
 ```
+
+### Licencia
+Distributed under the MIT License. See LICENSE for more information.
+
+### Contacto
+René Elizalde Solano - @reroes - rrelizalde@utpl.edu.ec
