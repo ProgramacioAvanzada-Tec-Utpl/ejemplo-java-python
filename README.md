@@ -91,4 +91,4 @@ if __name__ == "__main__":
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Contacto
-René Elizalde Solano - @reroes - rrelizalde@utpl.edu.ec
+@reroes
